@@ -16,12 +16,9 @@ A weather app inspired by the beautiful designs made by [Olia Gozha](https://dri
 
 * Add API key  
 Go to [OpenWeatherMap](https://openweathermap.org/) and sign up and generate your api key.  
-  
 Open `services/weather.dart` and replace your api key at  
 ```
----
 const apiKey = 'ENTER_YOUR_API_KEY';
----
 ```
 
 * Start building  
