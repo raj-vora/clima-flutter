@@ -27,6 +27,9 @@ Use emulator or a physical device connected by USB
     $ flutter run
 ```
 
+* Note:  
+Make sure that location service is enabled and device has an active internet connection.
+
 * Create APK
 ```sh
     $ flutter build apk --split-per-abi
